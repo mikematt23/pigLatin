@@ -1,0 +1,24 @@
+{
+  "name": "piglatin",
+  "version": "1.0.0",
+  "description": "a pig latin translator",
+  "main": "pigLatin.js",
+  "scripts": {
+    "start": "harp server --port $PORT",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "harp": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikematt23/pigLatin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikematt23/pigLatin/issues"
+  },
+  "homepage": "https://github.com/mikematt23/pigLatin#readme"
+
+}
